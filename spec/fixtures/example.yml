@@ -1,0 +1,19 @@
+person:
+  first_name: Richard
+  last_name: Mark
+  phone_number: +1 (206) 913-3215
+  email_address: rickmark@outlook.com
+skills:
+  - name: Coding
+    score: 4
+  - name: People
+    score: 2
+work_history_events:
+  - name: Microsoft
+    title: Software Engineer
+    location: Redmond, WA
+    start_date: 04/10/2010
+hobbies:
+  - name: Long walks on the beach
+  - name: Building kick ass apps
+    description: Is there anything else worth being good at?
